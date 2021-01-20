@@ -1,6 +1,6 @@
 public class BubbleSortProgram {
     public static void main(String[] args) {
-        int[] angka = {3,4,1,6,5,2};
+        int[] angka = {3,4,1,5,2};
         int i,j,k,temp;
         
         System.out.println("Sebelum diurutkan:");
@@ -28,6 +28,6 @@ public class BubbleSortProgram {
         for(i=0; i < angka.length;i++) {    
             System.out.print(angka[i]+" ");
         }
-        System.out.println("\nMillenia");
+        System.out.println("\nMilea");
     } 
 }
