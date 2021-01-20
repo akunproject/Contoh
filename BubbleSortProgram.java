@@ -28,6 +28,6 @@ public class BubbleSortProgram {
         for(i=0; i < angka.length;i++) {    
             System.out.print(angka[i]+" ");
         }
-        System.out.println("\nMilla");
+        System.out.println("\nMillenia");
     } 
 }
